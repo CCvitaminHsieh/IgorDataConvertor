@@ -1,10 +1,10 @@
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 
 Function myProcessorFunc(textWave,entry)
-wave/t textWave //a reference to the bufferwave of interest
-variable entry	//which row has just been filled in the bufferwave.
-//print textWave[entry][0]
-//print " received at"+ textWave[entry][1]
+	wave/t textWave //a reference to the bufferwave of interest
+	variable entry	//which row has just been filled in the bufferwave.
+	//print textWave[entry][0]
+	//print " received at"+ textWave[entry][1]
 end
 
 // R&S SGMA-GUI 4.30.046.221 x64
