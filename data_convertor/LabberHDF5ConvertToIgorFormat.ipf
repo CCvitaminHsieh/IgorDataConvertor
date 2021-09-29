@@ -3,7 +3,7 @@
 //
 //*******************************************************************
 //Verified Version:
-//    Igor Pro 6.37 in Windows 10 
+//    Igor Pro 6.37 on Windows 10 
 //Desc:
 //    1. Install the below dependencies to start the service for data converting from HDF5 to Igor support
 //    2. Dependencies(you can find these files in the following path):
